@@ -5,6 +5,7 @@
 ## Olá, Mundo! 👋
 
 Fiz esse código em minha participação do desafio do [Frontend Mentor](https://www.frontendmentor.io).
+[Link para visualização do site!](https://thayronribeiro.github.io/qrcode-frontendmentor/)
 
 **Foi necessário apenas HTML e CSS para codar esse projeto, conforme solicitado no próprio desafio.**
 
